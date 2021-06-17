@@ -1,0 +1,10 @@
+F:\Meus Algoritmos\C#\Agenda Contatos\Agenda Contatos\bin\Debug\Agenda Contatos.exe.config
+F:\Meus Algoritmos\C#\Agenda Contatos\Agenda Contatos\bin\Debug\Agenda Contatos.exe
+F:\Meus Algoritmos\C#\Agenda Contatos\Agenda Contatos\bin\Debug\Agenda Contatos.pdb
+F:\Meus Algoritmos\C#\Agenda Contatos\Agenda Contatos\obj\Debug\Agenda Contatos.csprojAssemblyReference.cache
+F:\Meus Algoritmos\C#\Agenda Contatos\Agenda Contatos\obj\Debug\Agenda_Contatos.Properties.Resources.resources
+F:\Meus Algoritmos\C#\Agenda Contatos\Agenda Contatos\obj\Debug\Agenda Contatos.csproj.GenerateResource.cache
+F:\Meus Algoritmos\C#\Agenda Contatos\Agenda Contatos\obj\Debug\Agenda Contatos.csproj.CoreCompileInputs.cache
+F:\Meus Algoritmos\C#\Agenda Contatos\Agenda Contatos\obj\Debug\Agenda Contatos.exe
+F:\Meus Algoritmos\C#\Agenda Contatos\Agenda Contatos\obj\Debug\Agenda Contatos.pdb
+F:\Meus Algoritmos\C#\Agenda Contatos\Agenda Contatos\obj\Debug\Agenda_Contatos.frmAgendaContatos.resources
